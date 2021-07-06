@@ -1,2 +1,2 @@
-# Challege-1-fornt-end-mentor
+# challenge-one-frontend-mentor
 Created with CodeSandbox
